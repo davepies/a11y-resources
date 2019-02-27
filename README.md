@@ -2,28 +2,28 @@
 
 ![a11y yeah](https://user-images.githubusercontent.com/1204692/30697506-9fd3020c-9eb5-11e7-95ca-a6c56785dd66.png)
 
-# Meta
+## Meta
 
 - [awesome-a11y on github - thanks for the inspiration, image and some links](https://github.com/brunopulis/awesome-a11y)
 - [a11y-checklist](https://a11yproject.com/checklist)
 
-# Stats
+## Stats
 
 [Webaim Screenreader Survey](https://webaim.org/projects/screenreadersurvey6/)
 
-# Tools
+## Tools
 
-## Screenreaders
+### Screenreaders
 
 - [JAWS](https://support.freedomscientific.com/Downloads/JAWS)
 
-## Firefox Addons
+### Firefox Addons
 
 - [axe](https://addons.mozilla.org/en-US/firefox/addon/axe-devtools/)
 
 - [wave](https://addons.mozilla.org/en-US/firefox/addon/wave-accessibility-tool)
 
-## Chrome Extensions
+### Chrome Extensions
 
 - [Accessibility Devloper Tools](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb?hl=en)
 
@@ -31,7 +31,7 @@
 
 ## Learning Resources
 
-## General
+### General
 
 - [Udacity Course](https://www.udacity.com/course/web-accessibility--ud891)
 
@@ -39,7 +39,7 @@
 
 - [W3C ARIA Landmarks Example](https://www.w3.org/TR/wai-aria-practices/examples/landmarks/index.html)
 
-## JAWS
+### JAWS
 
 - [BBC News Accessibility - JAWS testing guid](https://bbc-news.github.io/accessibility-news-and-you/accessibility-and-testing-with-jaws.html)
 
