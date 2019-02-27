@@ -42,3 +42,7 @@
 ## JAWS
 
 - [BBC News Accessibility - JAWS testing guid](https://bbc-news.github.io/accessibility-news-and-you/accessibility-and-testing-with-jaws.html)
+
+## Design Systems
+
+- [a11y Style Guide - Accessible Components](https://a11y-style-guide.com)
