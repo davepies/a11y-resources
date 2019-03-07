@@ -5,7 +5,11 @@
 ## Meta
 
 - [awesome-a11y on github - thanks for the inspiration, image and some links](https://github.com/brunopulis/awesome-a11y)
+- [aweseome-react-a11](https://github.com/jeffprinty/awesome-react-a11y)
+
+## Checklists and Cheatsheets
 - [a11y-checklist](https://a11yproject.com/checklist)
+- [WAI-ARIA Cheatsheet](http://karlgroves-sandbox.com/CheatSheets/ARIA-Cheatsheet.html)
 
 ## Stats
 
@@ -15,6 +19,7 @@
 
 ### React
 - [Official Docs](https://reactjs.org/docs/accessibility.html)
+- [eslint-plugin-jsx-a11y](https://github.com/evcohen/eslint-plugin-jsx-a11y)
 - [Jest-aXE](https://github.com/nickcolley/jest-axe)
 
 ### Screenreaders
